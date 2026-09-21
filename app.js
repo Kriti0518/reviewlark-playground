@@ -7,3 +7,4 @@
    }
 
    module.exports = { getUser, divide };
+// TODO: add input validation
